@@ -1,0 +1,4 @@
+output/
+*.html_backup
+.DS_Store
+$__StoryList*.tid

@@ -1,0 +1,31 @@
+created: 20230712110931643
+modified: 20230712112108232
+title: Unix 哲学
+type: text/vnd.tiddlywiki
+
+
+https://zh.wikipedia.org/wiki/Unix%E5%93%B2%E5%AD%A6
+
+Pick up:
+
+McIlroy：A Quarter Century of Unix
+
+# 程序应该只关注一个目标，并尽可能把它做好。让程序相互协作。文本数据流是一个通用接口。（aka 流、文本）
+
+Pike：Notes on Programming in C
+
+# 功能强大的算法在处理小规模问题上效率很低，功能全面的算法比简单算法更容易产生 bug，穷举法 is not bad.
+# 只需要告诉我数据结构，算法不言自明。反之不行。
+
+Mike Gancarz的《UNIX哲学》
+
+# 小即是美。
+# 让程序只做好一件事。
+# 尽早建立原型。
+# 可移植性比效率更重要
+# 文本数据
+# 所有程序都是数据的过滤器
+# 使用小写字母并简短
+# 沉默是金
+# 并行思考
+
